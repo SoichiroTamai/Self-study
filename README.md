@@ -1,2 +1,0 @@
-# Self-study
-Independent production
